@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F6850927-CA78-F8FC-69DE-2838C2FC76A8}") = "Mario Bros ayodong jadi", "Assembly-CSharp.csproj", "{FE3F0714-D79E-ED41-C68C-425873729438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3F0714-D79E-ED41-C68C-425873729438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3F0714-D79E-ED41-C68C-425873729438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3F0714-D79E-ED41-C68C-425873729438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3F0714-D79E-ED41-C68C-425873729438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

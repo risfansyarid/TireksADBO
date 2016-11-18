@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: a86c123ecfb6d2942b0947d46f0d0895
+timeCreated: 1479422865
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mario diem
+    21300002: mario jalan dikit
+    21300004: mario jalan lebar
+    21300006: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_0
+    21300008: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_1
+    21300010: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_2
+    21300012: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_3
+    21300014: jamur
+    21300016: burung
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario diem
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 516
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario jalan dikit
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 439
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario jalan lebar
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 439
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_0
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 583
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 577
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 679
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jamur
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 678
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: burung
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 555
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
