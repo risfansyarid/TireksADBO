@@ -9,9 +9,7 @@ public class BGShift : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
 	
-	}
 
     void OnTriggerExit2D(Collider2D collider)
     {
