@@ -17,7 +17,7 @@ public class BGShift : MonoBehaviour {
     {
         float width = ((BoxCollider2D)collider).size.x;
         Vector3 pos = collider.transform.position;
-        pos.x += width * 1.95f;
+        pos.x += width * 7.9f;
         if (collider.gameObject.tag == "BG1") {
             collider.transform.position = pos;
         }
